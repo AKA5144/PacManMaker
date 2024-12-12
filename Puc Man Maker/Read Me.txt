@@ -1,0 +1,16 @@
+1) struct ghost inité dans ghost.h gameData initié dans gameData.h
+2)regarder ghost.h
+3)ghost.cpp fonction move ligne 77
+4)player.cpp ligne 196
+5)ghost.cpp InitGhostsMove ligne 121
+6)ghosts.cpp ligne 20
+7)creaman.cpp ligne39, mapmanager.cpp ligne77, display.cpp
+8) enum dans gameData player.cpp ligne 63; ghosts.cpp ligne 67
+
+
+________________________________________________________________________
+dans le menu edit vous pouvez placer 3 tiles, 
+les murs pour bloquer un passage
+la pelouse pour créer de l'espace
+les turning point , qui sert a pouvoir forcer le deplacement aléatoire a un fantome
+j'ai laissé la console pour avoir une seconde vu de notre map custom

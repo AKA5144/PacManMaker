@@ -1,0 +1,9 @@
+﻿  Init.cpp
+  MapManager.cpp
+C:\Users\ar405\OneDrive\Bureau\pp\Puc Man Maker\Projet Propre SFML\MapManager.cpp(109,14): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  Génération de code en cours
+  5 of 349 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    42 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Projet Propre SFML.vcxproj -> C:\Users\ar405\OneDrive\Bureau\pp\Puc Man Maker\x64\Release\Projet Propre SFML.exe
